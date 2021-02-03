@@ -1,0 +1,45 @@
+@import './reset.css';
+
+.menu {
+    height: 100vh;
+    width: 300px;
+    background-color: antiquewhite;
+    float: left;
+}
+
+.content {
+    height: 80vh;
+    width: 100vw;
+    background-color: aquamarine;
+}
+
+.logo {
+    height: 20vh;
+    width: 100vw;
+    background-color: burlywood;
+    background-image: url(../images/SOhwySJ.png);
+    background-size: contain;
+}
+
+.logo .logo-image-style{
+    height: 20vh;
+}
+
+.logo .logo-title{
+    font-size: 50px;
+}
+
+.menu .menu-title{
+    height: 20vh;
+    background-image: url(../images/fWGEdxq.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.menu .menulist .menulist-button{
+    font-size: 50px;
+    color: black;
+    background-color: unset;
+    border: none;
+}
